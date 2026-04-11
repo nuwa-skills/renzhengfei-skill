@@ -4,10 +4,9 @@
 
 > "华为没有成功，只有成长。" —— 任正非
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/renzhengfei-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Panmax/renzhengfei-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将任正非的灰度管理哲学蒸馏为 Claude Code skill，用狼性文化与自我批判的视角帮你在不确定性中找到前进方向。**
 
 </div>
@@ -62,12 +61,12 @@ renzhengfei-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
-<sub>用任正非的智慧，在灰度中找到穿越周期的力量。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
