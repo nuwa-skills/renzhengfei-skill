@@ -5,9 +5,9 @@
 > "华为没有成功，只有成长。" —— 任正非
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将任正非的灰度管理哲学蒸馏为 Claude Code skill，用狼性文化与自我批判的视角帮你在不确定性中找到前进方向。**
+**将任正非的灰度管理哲学蒸馏为 Agent Skill（Claude Code 等客户端可用），用狼性文化与自我批判的视角帮你在不确定性中找到前进方向。**
 
 </div>
 
@@ -63,7 +63,7 @@ npx skills add nuwa-skills/renzhengfei-skill
 
 ```
 renzhengfei-skill/
-├── SKILL.md                        # Claude Code skill 主文件
+├── SKILL.md                        # Agent Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 ├── examples/
